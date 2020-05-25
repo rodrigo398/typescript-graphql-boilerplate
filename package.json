@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Awesome project developed with TypeORM.",
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
     "@types/node": "^8.0.29",
     "@types/uuid": "^8.0.0",
     "nodemon": "^2.0.4",
@@ -12,6 +13,7 @@
     "typescript": "3.3.3333"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "graphql-import": "^1.0.2",
     "graphql-tools": "^6.0.0",
     "graphql-yoga": "^1.18.3",
