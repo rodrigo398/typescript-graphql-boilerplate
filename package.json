@@ -7,7 +7,7 @@
     "@types/jest": "^25.2.3",
     "@types/node": "^8.0.29",
     "@types/uuid": "^8.0.0",
-    "jest": "^26.0.1",
+    "jest": "^29.7.0",
     "nodemon": "^2.0.20",
     "ts-jest": "^26.0.0",
     "ts-node": "3.3.0",
